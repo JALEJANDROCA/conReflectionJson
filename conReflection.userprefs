@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="conReflection/conReflection.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="conReflection/JsonCustomSerializer.cs">
+    <Files>
+      <File FileName="conReflection/JsonCustomSerializer.cs" Line="80" Column="2" />
+      <File FileName="conReflection/Domicilio.cs" Line="1" Column="1" />
+      <File FileName="conReflection/Program.cs" Line="1" Column="1" />
+      <File FileName="conReflection/Persona.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

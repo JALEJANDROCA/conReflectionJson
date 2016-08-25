@@ -1,0 +1,5 @@
+/home/jaca/Documentos/QuickHub/conReflection/conReflection/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jaca/Documentos/QuickHub/conReflection/conReflection/bin/Debug/conReflection.exe.mdb
+/home/jaca/Documentos/QuickHub/conReflection/conReflection/bin/Debug/conReflection.exe
+/home/jaca/Documentos/QuickHub/conReflection/conReflection/obj/x86/Debug/conReflection.exe
+/home/jaca/Documentos/QuickHub/conReflection/conReflection/obj/x86/Debug/conReflection.exe.mdb

@@ -1,0 +1,5 @@
+\\VBOXSVR\jaca\Documentos\QuickHub\conReflection\conReflection\obj\x86\Debug\conReflection.exe
+\\VBOXSVR\jaca\Documentos\QuickHub\conReflection\conReflection\bin\Debug\conReflection.exe
+\\VBOXSVR\jaca\Documentos\QuickHub\conReflection\conReflection\bin\Debug\conReflection.pdb
+\\VBOXSVR\jaca\Documentos\QuickHub\conReflection\conReflection\obj\x86\Debug\conReflection.csprojResolveAssemblyReference.cache
+\\VBOXSVR\jaca\Documentos\QuickHub\conReflection\conReflection\obj\x86\Debug\conReflection.pdb
